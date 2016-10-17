@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @geek_woman.name %>
+</p>
+
+<p>
+  <strong>Message:</strong>
+  <%= @geek_woman.message %>
+</p>
+
+<p>
+  <strong>Picture:</strong>
+  <%= @geek_woman.picture %>
+</p>
+
+<%= link_to 'Edit', edit_geek_woman_path(@geek_woman) %> |
+<%= link_to 'Back', geek_women_path %>

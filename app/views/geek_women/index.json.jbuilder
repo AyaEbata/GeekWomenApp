@@ -1,0 +1,1 @@
+json.array! @geek_women, partial: 'geek_women/geek_woman', as: :geek_woman

@@ -1,0 +1,2 @@
+class GeekWoman < ApplicationRecord
+end
