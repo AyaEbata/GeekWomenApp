@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+/* ===== Reset ====== */
+.navbar-default {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+/* ===== Custom ====== */
+article {
+  margin-top: 60px;
+}
+
+footer {
+  margin-top: 40px;
+}
