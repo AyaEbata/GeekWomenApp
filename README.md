@@ -1,5 +1,5 @@
 # GeekWomenApp
-Rails app for Geek Women Japan conference (November 3rd, 2016)
+Rails app for Geek Women Japan conference (November 3rd, 2016) [MEMO](https://github.com/AyaEbata/GeekWomenApp/wiki)
 
 <br />
 
