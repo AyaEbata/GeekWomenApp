@@ -12,7 +12,7 @@
 
 <p>
   <strong>Picture:</strong>
-  <%= @geek_woman.picture %>
+  <%= image_tag(@geek_woman.picture_url, height: 250) if @geek_woman.picture.present? %>
 </p>
 
 <%= link_to 'Edit', edit_geek_woman_path(@geek_woman) %> |
